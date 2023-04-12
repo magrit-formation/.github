@@ -2,7 +2,7 @@
 
 Supports de formation combinant une présentation des aspects théoriques relatifs à la cartographie thématique et une mise en pratique avec le logiciel libre en ligne [Magrit](https://magrit.cnrs.fr). 
 
-![](fig/img.png)    
+![](img.png)    
 
 ### Public 
 
