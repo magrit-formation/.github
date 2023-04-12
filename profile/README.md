@@ -1,16 +1,14 @@
 ## Cartographie thématique avec Magrit
 
-Supports de formation d'une journée combinant une présentation des aspects théoriques relatifs à la cartographie thématique (matin) une mise en pratique avec Magrit (après-midi). 
+Supports de formation combinant une présentation des aspects théoriques relatifs à la cartographie thématique et une mise en pratique avec le logiciel libre en ligne [Magrit](https://magrit.cnrs.fr). 
 
 ![](fig/img.png)    
 
 ### Public 
 
-Débutant (pas de connaissance particulière en cartographie thématique).
+Débutant, sans connaissances particulières en cartographie thématique.
 
-### Programme
-
-**Matin**
+### Supports
 
 - Présentation du [RIATE](https://riate.cnrs.fr)
 - Histoire de la cartographie thématique
