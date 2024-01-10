@@ -9,7 +9,6 @@ Débutant, sans connaissances particulières en cartographie thématique.
 
 ### Supports
 
-- Présentation du [RIATE](https://riate.cnrs.fr)
 - [Histoire de la cartographie thématique](https://magrit-formations.github.io/histoire_carto)
 - [Les sources de l'information géographique](https://magrit-formations.github.io/infogeo_sources)
 - [Le fond de carte](https://magrit-formations.github.io/fond_de_carte)
